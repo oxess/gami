@@ -3,7 +3,7 @@ package event
 import (
 	"testing"
 
-	"github.com/bit4bit/gami"
+	"github.com/oxess/gami"
 )
 
 func TestRTPReceiverStats(t *testing.T) {
